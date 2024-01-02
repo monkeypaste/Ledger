@@ -1,0 +1,28 @@
+{
+  "manifests": [
+    {
+      "title": "QR Code Generator",
+      "description": "Converts text to QR code",
+      "version": "1.0",
+      "author": "Thomas Kefauver",
+      "guid": "4abe63e3-f81b-4c75-8401-4268ddea793d",
+      "projectUrl": "https://github.com/monkeypaste/QrCoder",
+      "packageUrl": "https://github.com/monkeypaste/QrCoder/releases/download/v0.1-alpha/QrCoder.zip",
+      "iconUri": "https://github.com/monkeypaste/QrCoder/raw/main/icon.png",
+      "packageType": "Dll",
+      "tags": "Core,Qr Code,Text,Image,Link,Converter"
+    },
+    {
+      "title": "Image Annotator",
+      "description": "A local, lightweight object detector trained on 80 different types of things.",
+      "version": "1.0",
+      "author": "Thomas Kefauver",
+      "guid": "a54545be-e64e-4f51-a2fe-9206d5c64496",
+      "projectUrl": "https://github.com/monkeypaste/ImageAnnotator",
+      "packageUrl": "https://github.com/monkeypaste/ImageAnnotator/releases/download/v0.1-alpha/ImageAnnotator.zip",
+      "packageType": "Dll",
+      "tags": "Image Detection, Annotation, Image, AI, Text",
+      "iconUri": "https://github.com/monkeypaste/ImageAnnotator/raw/main/icon.png"
+    }
+  ]
+}
