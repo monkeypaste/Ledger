@@ -10,4 +10,8 @@
     <None Remove="plugin_releases\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Cultures\" />
+  </ItemGroup>
+
 </Project>

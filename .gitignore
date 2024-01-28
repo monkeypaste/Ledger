@@ -362,4 +362,7 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /plugin_releases
-/ledger-local.json
+/Ledger.csproj
+/plugin_packages_debug
+/plugin_packages_release
+*-local*
