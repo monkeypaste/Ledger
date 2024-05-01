@@ -70,11 +70,11 @@
     {
       "title": "কোর ক্লিপবোর্ড হ্যান্ডলার",
       "guid": "cf2ec03f-9edd-45e9-a605-2a2df71e03bd",
-      "version": "1.0.2.0",
+      "version": "1.0.2.1",
       "description": "হ্যান্ডলস ডিফল্ট ক্লিপবোর্ড ফর্ম্যাট",
       "author": "Monkey",
       "projectUrl": "https://www.monkeypaste.com",
-      "packageUrl": "https://www.monkeypaste.com/dat/cf2ec03f-9edd-45e9-a605-2a2df71e03bd/v1.0.2.0.zip",
+      "packageUrl": "https://www.monkeypaste.com/dat/cf2ec03f-9edd-45e9-a605-2a2df71e03bd/v1.0.2.1.zip",
       "tags": "কোর, ক্লিপবোর্ড, ড্র্যাগ এবং ড্রপ, পাঠ্য, আরটিএফ, সমৃদ্ধ পাঠ্য, এইচটিএমএল, সিএসভি, চিত্র, পিএনজি, জেপিজি, জেপিজি, লিঙ্ক",
       "iconUri": "https://www.monkeypaste.com/dat/CoreOleHandler.png",
       "publishedAppVersion": "1.0.18.0",

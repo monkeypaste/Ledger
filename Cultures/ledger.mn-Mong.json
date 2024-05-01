@@ -70,11 +70,11 @@
     {
       "title": "Үндсэн санах ойн гар ажиллагаа",
       "guid": "cf2ec03f-9edd-45e9-a605-2a2df71e03bd",
-      "version": "1.0.2.0",
+      "version": "1.0.2.1",
       "description": "Үндсэн санах ойн форматыг бариул",
       "author": "Monkey",
       "projectUrl": "https://www.monkeypaste.com",
-      "packageUrl": "https://www.monkeypaste.com/dat/cf2ec03f-9edd-45e9-a605-2a2df71e03bd/v1.0.2.0.zip",
+      "packageUrl": "https://www.monkeypaste.com/dat/cf2ec03f-9edd-45e9-a605-2a2df71e03bd/v1.0.2.1.zip",
       "tags": "Гол, Clipboard, Clipboard, чирж, текст, текст, remf, rov, csv, csv, jpg, jpg, jpg, jpg, jpg, jpg, jpg, jpg, холбоос",
       "iconUri": "https://www.monkeypaste.com/dat/CoreOleHandler.png",
       "publishedAppVersion": "1.0.18.0",

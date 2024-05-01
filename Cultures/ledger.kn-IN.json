@@ -70,11 +70,11 @@
     {
       "title": "ಕೋರ್ ಕ್ಲಿಪ್‌ಬೋರ್ಡ್ ಹ್ಯಾಂಡ್ಲರ್",
       "guid": "cf2ec03f-9edd-45e9-a605-2a2df71e03bd",
-      "version": "1.0.2.0",
+      "version": "1.0.2.1",
       "description": "ಡೀಫಾಲ್ಟ್ ಕ್ಲಿಪ್‌ಬೋರ್ಡ್ ಸ್ವರೂಪಗಳನ್ನು ನಿರ್ವಹಿಸುತ್ತದೆ",
       "author": "Monkey",
       "projectUrl": "https://www.monkeypaste.com",
-      "packageUrl": "https://www.monkeypaste.com/dat/cf2ec03f-9edd-45e9-a605-2a2df71e03bd/v1.0.2.0.zip",
+      "packageUrl": "https://www.monkeypaste.com/dat/cf2ec03f-9edd-45e9-a605-2a2df71e03bd/v1.0.2.1.zip",
       "tags": "ಕೋರ್, ಕ್ಲಿಪ್‌ಬೋರ್ಡ್, ಡ್ರ್ಯಾಗ್ ಮತ್ತು ಡ್ರಾಪ್, ಪಠ್ಯ, ಆರ್‌ಟಿಎಫ್, ರಿಚ್ ಟೆಕ್ಸ್ಟ್, ಎಚ್‌ಟಿಎಂಎಲ್, ಸಿಎಸ್‌ವಿ, ಇಮೇಜ್, ಪಿಎನ್‌ಜಿ, ಜೆಪಿಜಿ, ಜೆಪಿಇಜಿ, ಲಿಂಕ್",
       "iconUri": "https://www.monkeypaste.com/dat/CoreOleHandler.png",
       "publishedAppVersion": "1.0.18.0",

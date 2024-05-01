@@ -70,11 +70,11 @@
     {
       "title": "கோர் கிளிப்போர்டு ஹேண்ட்லர்",
       "guid": "cf2ec03f-9edd-45e9-a605-2a2df71e03bd",
-      "version": "1.0.2.0",
+      "version": "1.0.2.1",
       "description": "இயல்புநிலை கிளிப்போர்டு வடிவங்களைக் கையாளுகிறது",
       "author": "Monkey",
       "projectUrl": "https://www.monkeypaste.com",
-      "packageUrl": "https://www.monkeypaste.com/dat/cf2ec03f-9edd-45e9-a605-2a2df71e03bd/v1.0.2.0.zip",
+      "packageUrl": "https://www.monkeypaste.com/dat/cf2ec03f-9edd-45e9-a605-2a2df71e03bd/v1.0.2.1.zip",
       "tags": "கோர், கிளிப்போர்டு, இழுத்தல் மற்றும் டிராப், உரை, ஆர்.டி.எஃப், பணக்கார உரை, HTML, CSV, படம், PNG, JPG, JPEG, இணைப்பு",
       "iconUri": "https://www.monkeypaste.com/dat/CoreOleHandler.png",
       "publishedAppVersion": "1.0.18.0",

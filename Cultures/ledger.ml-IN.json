@@ -70,11 +70,11 @@
     {
       "title": "കോർ ക്ലിപ്പ്ബോർഡ് ഹാൻഡ്ലർ",
       "guid": "cf2ec03f-9edd-45e9-a605-2a2df71e03bd",
-      "version": "1.0.2.0",
+      "version": "1.0.2.1",
       "description": "സ്ഥിരസ്ഥിതി ക്ലിപ്പ്ബോർഡ് ഫോർമാറ്റുകൾ കൈകാര്യം ചെയ്യുന്നു",
       "author": "Monkey",
       "projectUrl": "https://www.monkeypaste.com",
-      "packageUrl": "https://www.monkeypaste.com/dat/cf2ec03f-9edd-45e9-a605-2a2df71e03bd/v1.0.2.0.zip",
+      "packageUrl": "https://www.monkeypaste.com/dat/cf2ec03f-9edd-45e9-a605-2a2df71e03bd/v1.0.2.1.zip",
       "tags": "കോർ, ക്ലിപ്പ്ബോർഡ്, ഡ്രാഗ്, ഡ്രോപ്പ്, ടെക്സ്റ്റ്, ആർടിഎഫ്, റിച്ച് ടെക്സ്റ്റ്, HTML, CSV, ചിത്രം, PNG, JPG, JPEG, LING, LING",
       "iconUri": "https://www.monkeypaste.com/dat/CoreOleHandler.png",
       "publishedAppVersion": "1.0.18.0",

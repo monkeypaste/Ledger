@@ -70,11 +70,11 @@
     {
       "title": "କୋର କ୍ଲିପବୋର୍ଡ ନିୟନ୍ତ୍ରକ |",
       "guid": "cf2ec03f-9edd-45e9-a605-2a2df71e03bd",
-      "version": "1.0.2.0",
+      "version": "1.0.2.1",
       "description": "ଡିଫଲ୍ଟ କ୍ଲିପବୋର୍ଡ ଫର୍ମାଟ୍ ପରିଚାଳନା କରେ |",
       "author": "Monkey",
       "projectUrl": "https://www.monkeypaste.com",
-      "packageUrl": "https://www.monkeypaste.com/dat/cf2ec03f-9edd-45e9-a605-2a2df71e03bd/v1.0.2.0.zip",
+      "packageUrl": "https://www.monkeypaste.com/dat/cf2ec03f-9edd-45e9-a605-2a2df71e03bd/v1.0.2.1.zip",
       "tags": "କୋର୍, କ୍ଲିପବୋର୍ଡ, ଡ୍ରାଗ୍ ଏବଂ ଡ୍ରପ୍ ଏବଂ ଡ୍ରପ ଏବଂ ଡ୍ରପ, RTL,, CSV, ପ୍ରତିଛବି, png, jpg, jpeg, ଲିଙ୍କ୍ |",
       "iconUri": "https://www.monkeypaste.com/dat/CoreOleHandler.png",
       "publishedAppVersion": "1.0.18.0",

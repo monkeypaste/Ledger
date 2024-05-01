@@ -70,11 +70,11 @@
     {
       "title": "મૂળ",
       "guid": "cf2ec03f-9edd-45e9-a605-2a2df71e03bd",
-      "version": "1.0.2.0",
+      "version": "1.0.2.1",
       "description": "ડિફ default લ્ટ ક્લિપબોર્ડ ફોર્મેટ્સને હેન્ડલ કરે છે",
       "author": "Monkey",
       "projectUrl": "https://www.monkeypaste.com",
-      "packageUrl": "https://www.monkeypaste.com/dat/cf2ec03f-9edd-45e9-a605-2a2df71e03bd/v1.0.2.0.zip",
+      "packageUrl": "https://www.monkeypaste.com/dat/cf2ec03f-9edd-45e9-a605-2a2df71e03bd/v1.0.2.1.zip",
       "tags": "કોર, ક્લિપબોર્ડ, ખેંચો અને ડ્રોપ, ટેક્સ્ટ, આરટીએફ, સમૃદ્ધ ટેક્સ્ટ, એચટીએમએલ, સીએસવી, ઇમેજ, પીએનજી, જેપીજી, જેપીઇજી, લિંક",
       "iconUri": "https://www.monkeypaste.com/dat/CoreOleHandler.png",
       "publishedAppVersion": "1.0.18.0",
